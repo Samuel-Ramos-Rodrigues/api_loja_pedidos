@@ -133,4 +133,4 @@ ou utilizar a extensão Live Server no VS Code.
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Samuel Túlio 🚀
+Desenvolvido por Samuel Túlio Ramos 🚀
